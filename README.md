@@ -139,15 +139,7 @@ ENABLE_CUSTOM_SIDEFUNCTIONS   ?= 1       自定义侧键功能（仅扩容设备
 ENABLE_SIDEFUNCTIONS_SEND     ?= 0       自定义侧键功能（侧键发射功能）
 ```
 
-# 打赏
 
-如果这个项目对您有帮助,可以考虑赞助来支持开发工作。
-
-这是：[打赏名单](https://github.com/losehu/uv-k5-firmware-chinese/blob/main/payment/sponsors.md) 非常感谢各位对汉化工作的支持！！！
-
-打赏码：
-
-[![打赏码](https://github.com/losehu/uv-k5-firmware-chinese/blob/main/payment/show.png)](https://github.com/losehu/uv-k5-firmware-chinese/blob/main/payment/payment-codes.md)
 
 # 全新的中文固件
 
