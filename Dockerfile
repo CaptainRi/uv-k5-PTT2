@@ -8,5 +8,5 @@ RUN pacman -Syyu python-crcmod --noconfirm
 WORKDIR /app
 COPY . .
 
-RUN git submodule update --init --recursive  https://github.com/CaptainRi/uv-k5-PTT2.git
+RUN git submodule update --init --recursive
 #RUN make && cp firmware* compiled-firmware/
