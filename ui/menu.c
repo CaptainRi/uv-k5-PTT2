@@ -158,7 +158,7 @@ const char gSubMenu_W_N[][3] =//7
 //                "WIDE",
 //                "NARROW"
                 宽带,
-               窄带
+                窄带
         };
 #endif
 #if ENABLE_CHINESE_FULL == 4
